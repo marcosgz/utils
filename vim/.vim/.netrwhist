@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/marcos/.vim/bundle/command-t/ruby/command-t/ext/command-t'
+let g:netrw_dirhist_2='/Users/marcos/.vim/bundle/command-t'
+let g:netrw_dirhist_3='/Users/marcos/Workspace/Gem/helastic'
+let g:netrw_dirhist_4='/Users/marcos/Dropbox/CatolicaSC/FundamentosProgramacao/aula17'
+let g:netrw_dirhist_5='/Users/marcos/Dropbox/CatolicaSC/FerramentasWeb/aula2'
+let g:netrw_dirhist_6='/Users/marcos/Workspace/Gem/helastic'
+let g:netrw_dirhist_7='/Users/marcos/Workspace/Gem/helastic/lib'
+let g:netrw_dirhist_8='/Users/marcos/Workspace/Gem/helastic/lib/helastic'
